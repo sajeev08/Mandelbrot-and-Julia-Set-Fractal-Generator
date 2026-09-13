@@ -1,0 +1,15 @@
+# Virtual environment
+mandelvenv/
+
+# Editor settings
+.vscode/
+
+# Generated fractal images
+*.png
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS junk
+.DS_Store
