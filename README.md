@@ -8,6 +8,7 @@ A Python-based interactive explorer for the Mandelbrot and Julia sets, built wit
 
 <img width="1280" height="960" alt="fractal_julia_20260913_190041" src="https://github.com/user-attachments/assets/e46e5b66-a4df-4b3a-aaf8-5a5eafd1c7f8" />
 
+The color map used for this image is "magma". It was used during initial testing of different color maps and log scaling for coloring. Both ideas which were later dropped 
 
 
 ## Features
