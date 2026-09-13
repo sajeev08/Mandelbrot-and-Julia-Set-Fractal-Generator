@@ -2,6 +2,12 @@
 
 A Python-based interactive explorer for the Mandelbrot and Julia sets, built with NumPy and Matplotlib. Supports real-time zoom via click-and-drag, zoom history (undo), live switching between fractals, and a mathematically meaningful link between the two: switching to Julia renders the set corresponding to wherever you're currently zoomed into on the Mandelbrot set.
 
+<img width="2940" height="1773" alt="fractal_julia_20260914_003733" src="https://github.com/user-attachments/assets/f06aaf42-acb8-4398-94d6-1b66a020bc9b" />
+
+<img width="1280" height="960" alt="fractal_mandelbrot_20260913_191542" src="https://github.com/user-attachments/assets/b6f37e8b-9c96-464a-bfad-8de200f33800" />
+
+<img width="1280" height="960" alt="fractal_julia_20260913_190041" src="https://github.com/user-attachments/assets/e46e5b66-a4df-4b3a-aaf8-5a5eafd1c7f8" />
+
 
 
 ## Features
